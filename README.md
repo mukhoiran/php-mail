@@ -1,2 +1,2 @@
 # php-mail
-Documentation PHP for send Email
+Sending an Email with PHP
